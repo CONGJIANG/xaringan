@@ -1,5 +1,9 @@
 # CHANGES IN xaringan VERSION 0.17
 
+- Add nature option `restart_slideshow` to restart a slideshow after it finished.
+  Accepts `true` and numeric values in milliseconds.
+  Only works if nature option `autoplay` is set.
+
 
 # CHANGES IN xaringan VERSION 0.16
 
