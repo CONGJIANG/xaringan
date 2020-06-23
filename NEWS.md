@@ -4,6 +4,7 @@
   Accepts `true` and numeric values in milliseconds.
   Only works if nature option `autoplay` is set.
 
+- Small updates to KI theme (@ellessenne, #267).
 
 # CHANGES IN xaringan VERSION 0.16
 
